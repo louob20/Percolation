@@ -1,0 +1,16 @@
+C:\Users\louie\source\repos\C#\Percolation Simulation\Percolation simulation\Percolation simulation\bin\Debug\netcoreapp3.1\Percolation simulation.exe
+C:\Users\louie\source\repos\C#\Percolation Simulation\Percolation simulation\Percolation simulation\bin\Debug\netcoreapp3.1\Percolation simulation.deps.json
+C:\Users\louie\source\repos\C#\Percolation Simulation\Percolation simulation\Percolation simulation\bin\Debug\netcoreapp3.1\Percolation simulation.runtimeconfig.json
+C:\Users\louie\source\repos\C#\Percolation Simulation\Percolation simulation\Percolation simulation\bin\Debug\netcoreapp3.1\Percolation simulation.runtimeconfig.dev.json
+C:\Users\louie\source\repos\C#\Percolation Simulation\Percolation simulation\Percolation simulation\bin\Debug\netcoreapp3.1\Percolation simulation.dll
+C:\Users\louie\source\repos\C#\Percolation Simulation\Percolation simulation\Percolation simulation\bin\Debug\netcoreapp3.1\Percolation simulation.pdb
+C:\Users\louie\source\repos\C#\Percolation Simulation\Percolation simulation\Percolation simulation\obj\Debug\netcoreapp3.1\Percolation simulation.csproj.AssemblyReference.cache
+C:\Users\louie\source\repos\C#\Percolation Simulation\Percolation simulation\Percolation simulation\obj\Debug\netcoreapp3.1\Percolation_simulation.Form1.resources
+C:\Users\louie\source\repos\C#\Percolation Simulation\Percolation simulation\Percolation simulation\obj\Debug\netcoreapp3.1\Percolation simulation.csproj.GenerateResource.cache
+C:\Users\louie\source\repos\C#\Percolation Simulation\Percolation simulation\Percolation simulation\obj\Debug\netcoreapp3.1\Percolation simulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louie\source\repos\C#\Percolation Simulation\Percolation simulation\Percolation simulation\obj\Debug\netcoreapp3.1\Percolation simulation.AssemblyInfoInputs.cache
+C:\Users\louie\source\repos\C#\Percolation Simulation\Percolation simulation\Percolation simulation\obj\Debug\netcoreapp3.1\Percolation simulation.AssemblyInfo.cs
+C:\Users\louie\source\repos\C#\Percolation Simulation\Percolation simulation\Percolation simulation\obj\Debug\netcoreapp3.1\Percolation simulation.csproj.CoreCompileInputs.cache
+C:\Users\louie\source\repos\C#\Percolation Simulation\Percolation simulation\Percolation simulation\obj\Debug\netcoreapp3.1\Percolation simulation.dll
+C:\Users\louie\source\repos\C#\Percolation Simulation\Percolation simulation\Percolation simulation\obj\Debug\netcoreapp3.1\Percolation simulation.pdb
+C:\Users\louie\source\repos\C#\Percolation Simulation\Percolation simulation\Percolation simulation\obj\Debug\netcoreapp3.1\Percolation simulation.genruntimeconfig.cache
